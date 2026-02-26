@@ -48,7 +48,8 @@ dan menggunakan composer. Pada praktikum ini kita menggunakan cara manual.
 • Ubah nama direktory **framework-4.x.xx** menjadi **ci4**.
 • Buka browser dengan alamat http://localhost/lab11_ci/ci4/public/
 
-<img width="960" alt="3" src="https://github.com/ZahraNurhaliza/Lab14Web/assets/115614417/0681d804-82a1-44a4-a2f8-4cd39e74f113">
+<img width="1837" height="1032" alt="Cuplikan layar 2026-02-26 110613" src="https://github.com/user-attachments/assets/0ba1ed10-cc02-4065-8ee4-fc7ceb11eaf7" />
+
 
 
 ### Menjalankan CLI (Command Line Interface)
