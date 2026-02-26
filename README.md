@@ -31,7 +31,7 @@ Berikut beberapa ekstensi yang perlu diaktifkan:
 Untuk mengaktifkan ekstentsi tersebut, melalu **XAMPP Control Panel**, pada bagian Apache
 klik **Config -> PHP.ini**
 
-<img width="590" alt="1" src="https://github.com/ZahraNurhaliza/Lab14Web/assets/115614417/126f36c2-330e-4dd3-afe0-62b354ee3dc5">
+<img width="590" alt="1" src="C:\Users\Raizei\OneDrive\Pictures\Screenshots\Cuplikan layar 2026-02-26 105947.png">
 
 
 Pada bagian extention, hilangkan tanda ; (titik koma) pada ekstensi yang akan diaktifkan.
