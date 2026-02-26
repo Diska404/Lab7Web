@@ -30,8 +30,7 @@ Berikut beberapa ekstensi yang perlu diaktifkan:
 • **libcurl** (opsional), jika ingin pakai Curl.
 Untuk mengaktifkan ekstentsi tersebut, melalu **XAMPP Control Panel**, pada bagian Apache
 klik **Config -> PHP.ini**
-
-<img width="590" alt="1" src="![Uploading Cuplikan layar 2026-02-26 105947.png…]()">
+<img width="1920" height="1080" alt="Cuplikan layar 2026-02-26 105947" src="https://github.com/user-attachments/assets/fe1dfcca-cd47-4967-9ef2-7f622e475c64" />
 
 
 Pada bagian extention, hilangkan tanda ; (titik koma) pada ekstensi yang akan diaktifkan.
