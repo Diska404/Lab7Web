@@ -31,7 +31,8 @@ Berikut beberapa ekstensi yang perlu diaktifkan:
 Untuk mengaktifkan ekstentsi tersebut, melalu **XAMPP Control Panel**, pada bagian Apache
 klik **Config -> PHP.ini**
 
-<img width="590" alt="1" src="C:\Users\Raizei\OneDrive\Pictures\Screenshots\Cuplikan layar 2026-02-26 105947.png">
+<img width="590" alt="1" src="![Uploading Cuplikan layar 2026-02-26 105947.png…]()
+">
 
 
 Pada bagian extention, hilangkan tanda ; (titik koma) pada ekstensi yang akan diaktifkan.
